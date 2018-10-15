@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from プロジェクト &apos;HelloWorld&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;HelloWorld&apos;&#x0D;&#x0A;- オリジナル要素: &apos;HelloWorld/human&apos;&#x0D;&#x0A;- サブパッケージを削除" description="要素を削除" element1="/&lt;human.src.jp.co.internous.action" element10="/&lt;human.bin" element11="/&lt;human" element2="/&lt;human.src.jp.co.internous" element3="/&lt;human.src.jp.co" element4="/&lt;human.src.jp" element5="/&lt;human.src" element6="/&lt;human.bin.jp.co.internous.action" element7="/&lt;human.bin.jp.co.internous" element8="/&lt;human.bin.jp.co" element9="/&lt;human.bin.jp" elements="11" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1539606493224" subPackages="true" version="1.0"/>
+</session>
