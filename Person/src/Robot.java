@@ -1,6 +1,6 @@
 
 public class Robot {
-	Test name = new name();
+	public String name=null;
 	public void talk(){
 		System.out.println(this.name+"が話す");
 	}
@@ -9,6 +9,4 @@ public class Robot {
 	}
 	public void run(){
 		System.out.println(this.name+"が走る");	}
-
-
 }
